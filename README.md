@@ -10,7 +10,7 @@ This project explores various factors influencing student performance in schools
 6.	Examine how factors like distance from school, parental education, and peer influence affect student behavior and academic outcomes.
 7.	Identify actionable insights to enhance student performance based on the analysis.
 ## Dataset used
-- <a href=" ">Students Performance Factors Dataset</a> 
+- <a href="https://github.com/nehajadhav-projects/students-performance-factors/blob/main/StudentPerformanceFactors.csv">Students Performance Factors Dataset</a> 
 ## Questions (KPIs)
 •	Comparison between previous exam scores and current exam scores.
 •	What are the total count of private and public schools?
@@ -21,23 +21,26 @@ This project explores various factors influencing student performance in schools
 •	Does parent education and motivation level is really affective? And How?
 •	How parents involvement affects on students study hours? and Which category of parental involvement is high or low?
 •	How distance from home is affects on  various factors like peer influence, learning disabilities, and physical activities?
-## Dashboard Interaction view dashboard
+
+ - <a href="https://github.com/nehajadhav-projects/students-performance-factors/blob/main/StudentPerformanceFactors.csv">Dashboard Interaction view dashboard</a>
 ## Process
-•	Verify data for any missing values and anomalies and sort out the same.
-•	Make sure data is consistent and clean with respect to data type, data format and values used.
-•	Created pivot tables according to questions asked.
-•	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+-	Verify data for any missing values and anomalies and sort out the same.
+-	Make sure data is consistent and clean with respect to data type, data format and values used.
+-	Created pivot tables according to questions asked.
+-	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard 
+![Screenshot 2024-11-19 140211](https://github.com/user-attachments/assets/62f76507-dd22-49ee-a4a2-7cba05ff5dab)
+
 
 ## Project Insight
-o	Delivered 10+ actionable insights, including:
-	Recommendations to increase internet access for ~30% of private school students without connectivity.
-	Strategies to train low-quality teachers, potentially increasing tutoring session participation by 3x (from 463 to ~1400).
-	Addressing the ~20% gender disparity in private and public schools.
-o	stakeholders
+-	Delivered 10+ actionable insights, including:
+- Recommendations to increase internet access for ~30% of private school students without connectivity.
+-	Strategies to train low-quality teachers, potentially increasing tutoring session participation by 3x (from 463 to ~1400).
+- Addressing the ~20% gender disparity in private and public schools.
+
 ## Impact:
-•	Provided actionable recommendations to improve student outcomes, potentially reducing the exam score decline by 15%-20% through targeted strategies.
-•	Developed a reusable dashboard for school administrators, enhancing decision-making efficiency by up to 40% (e.g., tracking performance, attendance, and resource access).
+-	Provided actionable recommendations to improve student outcomes, potentially reducing the exam score decline by 15%-20% through targeted strategies.
+-	Developed a reusable dashboard for school administrators, enhancing decision-making efficiency by up to 40% (e.g., tracking performance, attendance, and resource access).
 ________________________________________
 
 
