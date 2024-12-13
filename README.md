@@ -23,7 +23,8 @@ This project explores various factors influencing student performance in schools
 -	How parents involvement affects on students study hours? and Which category of parental involvement is high or low?
 -	How distance from home is affects on  various factors like peer influence, learning disabilities, and physical activities?
 
- - <a href="https://github.com/nehajadhav-projects/students-performance-factors/blob/main/Students%20Performance%20Factors.xlsx">Dashboard Interaction view dashboard</a>
+ - <a href="https://1drv.ms/x/c/4b71a64063f08211/EQnZhKZyDEhNmUUXjkZ-RjMBdPHfAH6wTWxL2JGMm_UXhg?e=rU99pj
+"> View Live Interactive Dashboard</a>
 ## Process
 -	Verify data for any missing values and anomalies and sort out the same.
 -	Make sure data is consistent and clean with respect to data type, data format and values used.
